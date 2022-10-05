@@ -1,0 +1,61 @@
+*{
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+background-image: url(sfondo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+color: white;
+}
+
+.box{
+  width: 1100px;
+  padding: 100px;
+  border-radius: 10px;
+  background-color: rgba(0,0,0,0.5);
+  margin-top: 25px;
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header{
+  text-align: center;
+  color: lime;
+}
+
+.logo{
+  width: 250px
+}
+
+nav{
+  text-align: center;
+  padding: 10px;
+  background-color: lime;
+}
+
+h2{
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+.batteria{
+  height: 20px;
+  border-radius:5px;
+ }
+
+ .arancione{
+   background-color: sandybrown;
+   width: 250px;
+ }
+
+ .verde{
+   background-color: limegreen;
+   width: 400px;
+ }
+
+.rossa{
+  background-color: tomato;
+  width: 150px;
+}
